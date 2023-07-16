@@ -1,0 +1,18 @@
+li
+{display: inline;}
+.button{
+    background-color: blue;
+    color: beige;
+    border: 2px saddlebrown;
+    padding: 20px 30px;
+    margin: 10px;
+    text-decoration: none;
+    display: inline;
+}
+.image{
+  max-width: 200px;
+    padding: 20px 30px;
+    margin: 10px;
+    display: inline-block;
+
+}
