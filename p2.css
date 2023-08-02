@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+    background-color: blueviolet;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+.flex-container > div{
+    background-color: black;
+    color: aliceblue;
+    margin-right: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+   
+}
